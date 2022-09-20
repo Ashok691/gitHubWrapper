@@ -26,7 +26,7 @@
 .formCard {
   display: flex;
   flex-direction: column;
-  width: 80%;
+  width: 50%;
 }
 .formCard input{
   background-color: transparent;
